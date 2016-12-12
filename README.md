@@ -7,3 +7,12 @@ Currently the included players are:
  3. [Apache Storm](https://storm.apache.org/)
  4. [Apache Gearpump](https://gearpump.apache.org/overview.html)
  5. [Heron](https://twitter.github.io/heron/)
+
+# Outlines
+
+- [Execution Model](docs/execution_model/execution_model.md)
+- [Fault Tolerance Mechanism]()
+- [Delivery Guarantee]()
+- [State Operator Support]()
+- [API]()
+- [Runtime Model]()
