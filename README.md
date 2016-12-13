@@ -10,9 +10,9 @@ Currently the included players are:
 
 # Outlines
 
-- [Execution Model](docs/execution_model/execution_model.md)
-- [Fault Tolerance Mechanism]()
-- [Delivery Guarantee]()
+- [Execution Model](docs/execution_model.md)
+- [Fault Tolerance Mechanism](docs/fault_tolerance.md)
+- [Delivery Guarantee](docs/delivery_guarantee.md)
 - [State Operator Support]()
 - [API]()
 - [Runtime Model]()
